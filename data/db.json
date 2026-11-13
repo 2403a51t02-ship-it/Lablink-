@@ -1,0 +1,569 @@
+{
+  "equipment": [
+    {
+      "id": "CS-001",
+      "category": "CSE – Computer Science",
+      "name": "High-performance Desktop Workstation",
+      "lab": "Computing Lab",
+      "icon": "🖥️",
+      "status": "Available",
+      "quantity": 2
+    },
+    {
+      "id": "CS-002",
+      "category": "CSE – Computer Science",
+      "name": "GPU Computing Workstation",
+      "lab": "AI Lab",
+      "icon": "🧠",
+      "status": "Maintenance",
+      "quantity": 2
+    },
+    {
+      "id": "CS-003",
+      "category": "CSE – Computer Science",
+      "name": "Raspberry Pi Development Kit",
+      "lab": "IoT Lab",
+      "icon": "🔧",
+      "status": "Available",
+      "quantity": 2
+    },
+    {
+      "id": "EC-001",
+      "category": "ECE – Electronics & Communication",
+      "name": "Digital Oscilloscope",
+      "lab": "Electronics Lab",
+      "icon": "📟",
+      "status": "Available",
+      "quantity": 2
+    },
+    {
+      "id": "EC-002",
+      "category": "ECE – Electronics & Communication",
+      "name": "Function Generator",
+      "lab": "Electronics Lab",
+      "icon": "〰️",
+      "status": "Available",
+      "quantity": 2
+    },
+    {
+      "id": "EC-003",
+      "category": "ECE – Electronics & Communication",
+      "name": "Spectrum Analyzer",
+      "lab": "Communication Lab",
+      "icon": "📶",
+      "status": "Available",
+      "quantity": 2
+    },
+    {
+      "id": "EE-001",
+      "category": "EEE – Electrical & Electronics",
+      "name": "Digital Multimeter",
+      "lab": "Electrical Lab",
+      "icon": "🔌",
+      "status": "Available",
+      "quantity": 2
+    },
+    {
+      "id": "EE-002",
+      "category": "EEE – Electrical & Electronics",
+      "name": "AC/DC Power Supply",
+      "lab": "Electrical Machines Lab",
+      "icon": "⚡",
+      "status": "Available",
+      "quantity": 2
+    },
+    {
+      "id": "ME-001",
+      "category": "Mechanical Engineering",
+      "name": "CNC Mini Milling Machine",
+      "lab": "Mechanical Workshop",
+      "icon": "⚙️",
+      "status": "Available",
+      "quantity": 2
+    },
+    {
+      "id": "ME-002",
+      "category": "Mechanical Engineering",
+      "name": "Universal Testing Machine",
+      "lab": "Materials Lab",
+      "icon": "🏭",
+      "status": "Maintenance",
+      "quantity": 2
+    },
+    {
+      "id": "CE-001",
+      "category": "Civil Engineering",
+      "name": "Concrete Compression Testing Machine",
+      "lab": "Civil Lab",
+      "icon": "🏗️",
+      "status": "Available",
+      "quantity": 2
+    },
+    {
+      "id": "CE-002",
+      "category": "Civil Engineering",
+      "name": "Total Station",
+      "lab": "Surveying Lab",
+      "icon": "📐",
+      "status": "Available",
+      "quantity": 2
+    },
+    {
+      "id": "AI-001",
+      "category": "AI & Machine Learning",
+      "name": "GPU AI Workstation",
+      "lab": "AI Research Lab",
+      "icon": "🤖",
+      "status": "Available",
+      "quantity": 2
+    },
+    {
+      "id": "AI-002",
+      "category": "AI & Machine Learning",
+      "name": "Edge AI Development Kit",
+      "lab": "AI Lab",
+      "icon": "🧩",
+      "status": "Available",
+      "quantity": 2
+    },
+    {
+      "id": "DS-001",
+      "category": "Data Science",
+      "name": "Data Analytics Workstation",
+      "lab": "Data Science Lab",
+      "icon": "📊",
+      "status": "Available",
+      "quantity": 2
+    },
+    {
+      "id": "DS-002",
+      "category": "Data Science",
+      "name": "NAS Storage Server",
+      "lab": "Data Lab",
+      "icon": "🗄️",
+      "status": "Available",
+      "quantity": 2
+    },
+    {
+      "id": "CY-001",
+      "category": "Cybersecurity",
+      "name": "Network Security Appliance",
+      "lab": "Cybersecurity Lab",
+      "icon": "🔐",
+      "status": "Available",
+      "quantity": 2
+    },
+    {
+      "id": "CY-002",
+      "category": "Cybersecurity",
+      "name": "Network Testing Kit",
+      "lab": "Cyber Range",
+      "icon": "🛡️",
+      "status": "Available",
+      "quantity": 2
+    },
+    {
+      "id": "IOT-001",
+      "category": "IoT & Embedded Systems",
+      "name": "Arduino Uno Starter Kit",
+      "lab": "Embedded Lab",
+      "icon": "🔌",
+      "status": "Available",
+      "quantity": 2
+    },
+    {
+      "id": "IOT-002",
+      "category": "IoT & Embedded Systems",
+      "name": "ESP32 Sensor Kit",
+      "lab": "IoT Lab",
+      "icon": "📡",
+      "status": "Available",
+      "quantity": 2
+    },
+    {
+      "id": "RB-001",
+      "category": "Robotics & Automation",
+      "name": "6-Axis Robotic Arm",
+      "lab": "Robotics Lab",
+      "icon": "🦾",
+      "status": "Available",
+      "quantity": 2
+    },
+    {
+      "id": "RB-002",
+      "category": "Robotics & Automation",
+      "name": "Mobile Robot Platform",
+      "lab": "Robotics Lab",
+      "icon": "🤖",
+      "status": "Available",
+      "quantity": 2
+    },
+    {
+      "id": "BT-001",
+      "category": "Biotechnology",
+      "name": "Micropipette Set",
+      "lab": "Biotech Lab",
+      "icon": "🧬",
+      "status": "Available",
+      "quantity": 2
+    },
+    {
+      "id": "BT-002",
+      "category": "Biotechnology",
+      "name": "Laboratory Centrifuge",
+      "lab": "Biotech Lab",
+      "icon": "🧪",
+      "status": "Available",
+      "quantity": 2
+    },
+    {
+      "id": "CH-001",
+      "category": "Chemistry",
+      "name": "Digital pH Meter",
+      "lab": "Chemistry Lab",
+      "icon": "⚗️",
+      "status": "Available",
+      "quantity": 2
+    },
+    {
+      "id": "CH-002",
+      "category": "Chemistry",
+      "name": "UV-Visible Spectrophotometer",
+      "lab": "Chemistry Lab",
+      "icon": "🔬",
+      "status": "Available",
+      "quantity": 2
+    },
+    {
+      "id": "PH-001",
+      "category": "Physics",
+      "name": "Optical Bench Kit",
+      "lab": "Physics Lab",
+      "icon": "🔭",
+      "status": "Available",
+      "quantity": 2
+    },
+    {
+      "id": "PH-002",
+      "category": "Physics",
+      "name": "Laser Experiment Kit",
+      "lab": "Physics Lab",
+      "icon": "💡",
+      "status": "Available",
+      "quantity": 2
+    },
+    {
+      "id": "BL-001",
+      "category": "Biology & Life Sciences",
+      "name": "Compound Microscope",
+      "lab": "Biology Lab",
+      "icon": "🔬",
+      "status": "Available",
+      "quantity": 2
+    },
+    {
+      "id": "BL-002",
+      "category": "Biology & Life Sciences",
+      "name": "Laboratory Incubator",
+      "lab": "Life Sciences Lab",
+      "icon": "🧫",
+      "status": "Available",
+      "quantity": 2
+    },
+    {
+      "id": "MA-001",
+      "category": "Mathematics",
+      "name": "Graphing Calculator Set",
+      "lab": "Mathematics Lab",
+      "icon": "📐",
+      "status": "Available",
+      "quantity": 2
+    },
+    {
+      "id": "MA-002",
+      "category": "Mathematics",
+      "name": "Interactive Display Panel",
+      "lab": "Smart Classroom",
+      "icon": "🖥️",
+      "status": "Available",
+      "quantity": 2
+    },
+    {
+      "id": "DI-001",
+      "category": "Design & Innovation",
+      "name": "3D Design Workstation",
+      "lab": "Design Studio",
+      "icon": "🎨",
+      "status": "Available",
+      "quantity": 2
+    },
+    {
+      "id": "DI-002",
+      "category": "Design & Innovation",
+      "name": "Laser Cutter",
+      "lab": "Innovation Lab",
+      "icon": "✂️",
+      "status": "Available",
+      "quantity": 2
+    },
+    {
+      "id": "3D-001",
+      "category": "3D Printing & Prototyping",
+      "name": "FDM 3D Printer",
+      "lab": "Prototyping Lab",
+      "icon": "🖨️",
+      "status": "Maintenance",
+      "quantity": 2
+    },
+    {
+      "id": "3D-002",
+      "category": "3D Printing & Prototyping",
+      "name": "3D Scanner",
+      "lab": "Prototyping Lab",
+      "icon": "📦",
+      "status": "Available",
+      "quantity": 2
+    },
+    {
+      "id": "AU-001",
+      "category": "Automobile Workshop",
+      "name": "Automotive Diagnostic Scanner",
+      "lab": "Automobile Lab",
+      "icon": "🚗",
+      "status": "Available",
+      "quantity": 2
+    },
+    {
+      "id": "AU-002",
+      "category": "Automobile Workshop",
+      "name": "Engine Trainer Kit",
+      "lab": "Automobile Workshop",
+      "icon": "🔩",
+      "status": "Available",
+      "quantity": 2
+    },
+    {
+      "id": "AF-001",
+      "category": "Agriculture & Food Tech",
+      "name": "Soil Testing Kit",
+      "lab": "Agri-Tech Lab",
+      "icon": "🌾",
+      "status": "Available",
+      "quantity": 2
+    },
+    {
+      "id": "AF-002",
+      "category": "Agriculture & Food Tech",
+      "name": "Moisture Analyzer",
+      "lab": "Food Technology Lab",
+      "icon": "🌱",
+      "status": "Available",
+      "quantity": 2
+    },
+    {
+      "id": "MC-001",
+      "category": "Media & Photography Club",
+      "name": "DSLR Camera Kit",
+      "lab": "Media Studio",
+      "icon": "📷",
+      "status": "Available",
+      "quantity": 2
+    },
+    {
+      "id": "MC-002",
+      "category": "Media & Photography Club",
+      "name": "Tripod & Lighting Kit",
+      "lab": "Media Studio",
+      "icon": "💡",
+      "status": "Available",
+      "quantity": 2
+    },
+    {
+      "id": "FA-001",
+      "category": "Film & Animation Club",
+      "name": "Cinema Camera Kit",
+      "lab": "Film Studio",
+      "icon": "🎬",
+      "status": "Available",
+      "quantity": 2
+    },
+    {
+      "id": "FA-002",
+      "category": "Film & Animation Club",
+      "name": "Video Editing Workstation",
+      "lab": "Post-production Lab",
+      "icon": "🎞️",
+      "status": "Available",
+      "quantity": 2
+    },
+    {
+      "id": "MU-001",
+      "category": "Music & Audio Club",
+      "name": "Digital Audio Mixer",
+      "lab": "Music Studio",
+      "icon": "🎚️",
+      "status": "Available",
+      "quantity": 2
+    },
+    {
+      "id": "MU-002",
+      "category": "Music & Audio Club",
+      "name": "Studio Microphone Kit",
+      "lab": "Music Studio",
+      "icon": "🎙️",
+      "status": "Available",
+      "quantity": 2
+    },
+    {
+      "id": "RC-001",
+      "category": "Robotics Club",
+      "name": "Competition Robot Kit",
+      "lab": "Club Workshop",
+      "icon": "🤖",
+      "status": "Available",
+      "quantity": 2
+    },
+    {
+      "id": "RC-002",
+      "category": "Robotics Club",
+      "name": "Soldering & Electronics Station",
+      "lab": "Club Workshop",
+      "icon": "🔧",
+      "status": "Available",
+      "quantity": 2
+    },
+    {
+      "id": "AD-001",
+      "category": "Aero & Drone Club",
+      "name": "Quadcopter Drone Kit",
+      "lab": "Drone Lab",
+      "icon": "🚁",
+      "status": "Available",
+      "quantity": 2
+    },
+    {
+      "id": "AD-002",
+      "category": "Aero & Drone Club",
+      "name": "FPV Goggles & Controller",
+      "lab": "Drone Lab",
+      "icon": "🕹️",
+      "status": "Available",
+      "quantity": 2
+    },
+    {
+      "id": "SF-001",
+      "category": "Sports & Fitness Club",
+      "name": "Digital Stopwatch Set",
+      "lab": "Sports Science Room",
+      "icon": "⏱️",
+      "status": "Available",
+      "quantity": 2
+    },
+    {
+      "id": "SF-002",
+      "category": "Sports & Fitness Club",
+      "name": "Fitness Assessment Kit",
+      "lab": "Sports Science Room",
+      "icon": "🏋️",
+      "status": "Available",
+      "quantity": 2
+    }
+  ],
+  "bookings": [
+    {
+      "ref": "LL-C2D1F6F265",
+      "receiptCode": "LL-C2D1F6F265",
+      "ownerId": "2403A51T02",
+      "email": "2403A51T02",
+      "role": "student",
+      "enrollment": "2403A51T02",
+      "equipmentId": "3D-001",
+      "equipment": "FDM 3D Printer",
+      "category": "3D Printing & Prototyping",
+      "lab": "Prototyping Lab",
+      "purpose": "For Lab and project use",
+      "fromDate": "2026-11-11",
+      "toDate": "2026-11-13",
+      "date": "2026-11-11",
+      "time": "14:00",
+      "hours": 2,
+      "quantity": 1,
+      "supervisor": "Santosh kumar",
+      "facultyEmail": "dr.santosh@sru.edu.in",
+      "dueAt": "2026-11-13T10:30:00.000Z",
+      "status": "Returned",
+      "created": "2026-11-11T05:46:00.569Z",
+      "condition": "Good",
+      "fineAmount": 0,
+      "fineReason": "",
+      "fineStatus": "",
+      "fineCleared": false,
+      "lateReturn": false,
+      "returnedAt": "2026-11-11T05:47:47.666Z"
+    },
+    {
+      "ref": "LL-6BFB81E6D4",
+      "receiptCode": "LL-6BFB81E6D4",
+      "ownerId": "Dr.Santosh Kumar",
+      "email": "Dr.Santosh Kumar",
+      "role": "faculty",
+      "enrollment": "",
+      "equipmentId": "3D-001",
+      "equipment": "FDM 3D Printer",
+      "category": "3D Printing & Prototyping",
+      "lab": "Prototyping Lab",
+      "purpose": "For Educationla Purpose",
+      "fromDate": "2026-11-12",
+      "toDate": "2026-11-13",
+      "date": "2026-11-12",
+      "time": "14:00",
+      "hours": 2,
+      "quantity": 1,
+      "supervisor": "",
+      "facultyEmail": "",
+      "dueAt": "2026-11-13T10:30:00.000Z",
+      "status": "Returned",
+      "created": "2026-11-11T05:46:49.045Z",
+      "condition": "Needs maintenance",
+      "fineAmount": 0,
+      "fineReason": "",
+      "fineStatus": "",
+      "fineCleared": false,
+      "lateReturn": false,
+      "returnedAt": "2026-11-11T05:48:11.557Z"
+    },
+    {
+      "ref": "LL-1F03C32260",
+      "receiptCode": "LL-1F03C32260",
+      "ownerId": "2403A51028",
+      "email": "2403A51028",
+      "role": "student",
+      "enrollment": "2403A51028",
+      "equipmentId": "CS-002",
+      "equipment": "GPU Computing Workstation",
+      "category": "CSE – Computer Science",
+      "lab": "AI Lab",
+      "purpose": "For project",
+      "fromDate": "2026-11-13",
+      "toDate": "2026-11-13",
+      "date": "2026-11-13",
+      "time": "14:00",
+      "hours": 2,
+      "quantity": 1,
+      "supervisor": "Shermala",
+      "facultyEmail": "shermala@sru.edu.in",
+      "dueAt": "2026-11-13T10:30:00.000Z",
+      "status": "Returned",
+      "created": "2026-11-12T06:19:52.714Z",
+      "condition": "Damaged",
+      "fineAmount": 500,
+      "fineReason": "Damage: Broken",
+      "fineStatus": "Paid",
+      "fineCleared": true,
+      "lateReturn": false,
+      "returnedAt": "2026-11-12T06:21:14.821Z",
+      "finePaidAt": "2026-11-12T06:21:50.330Z",
+      "fineClearedAt": "2026-11-12T06:22:18.373Z"
+    }
+  ]
+}
